@@ -1,8 +1,10 @@
 # Q3.2R.1 -----------------------------------------------------------------------
+# Function 1: read_me()
 remind_me <- function() {
     print("The deadline for internship proposal is Thursday 28 March 2024.")
   }
 
+# Function 2: cheat(), to produce answer of question 2, 3, and 4 for PIPS Assignment3.1 
 cheat <- function(number){
   if (number %in% 2:4 == 0) {
     stop("input should be 2, 3, or 4.")
