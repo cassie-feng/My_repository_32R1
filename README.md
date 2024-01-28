@@ -1,3 +1,3 @@
-# My repository for PIPS 3.2R.1
+# My repository for PIPS 3.2R
 ---
-This R file contains two functions, remind_me() and cheat(). 
+This R file contains 3 functions, remind_me(), cheat(), and make_art(). 
