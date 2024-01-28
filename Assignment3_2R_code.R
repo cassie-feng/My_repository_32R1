@@ -69,6 +69,9 @@ cheat <- function(number){
 
 
 # Q3.2R.2 -----------------------------------------------------------------------
+# Function 3: create a random art.
+# It will generate s 500*500 resolution picture.
+# Each pixel is randomly coloured, or not coloured.
 make_art <- function(seed) { 
   # Set the seed
   if (!is.null(seed)) {
